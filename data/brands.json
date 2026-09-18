@@ -1,0 +1,274 @@
+[
+  {
+    "id": "lakme",
+    "name": "Lakmé",
+    "website": "https://www.lakmeindia.com",
+    "feed_base": "https://www.lakmeindia.com",
+    "allowed_hosts": [
+      "www.lakmeindia.com",
+      "lakmeindia.com"
+    ],
+    "image_hosts": [
+      "www.lakmeindia.com",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "public-feed"
+  },
+  {
+    "id": "swiss-beauty",
+    "name": "Swiss Beauty",
+    "website": "https://swissbeauty.in",
+    "feed_base": "https://swissbeauty.in",
+    "allowed_hosts": [
+      "swissbeauty.in",
+      "www.swissbeauty.in"
+    ],
+    "image_hosts": [
+      "swissbeauty.in",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "public-feed"
+  },
+  {
+    "id": "sugar",
+    "name": "SUGAR Cosmetics",
+    "website": "https://in.sugarcosmetics.com",
+    "feed_base": "https://in.sugarcosmetics.com",
+    "allowed_hosts": [
+      "in.sugarcosmetics.com",
+      "www.in.sugarcosmetics.com"
+    ],
+    "image_hosts": [
+      "in.sugarcosmetics.com",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "public-feed"
+  },
+  {
+    "id": "plum",
+    "name": "Plum",
+    "website": "https://plumgoodness.com",
+    "feed_base": "https://plumgoodness.com",
+    "allowed_hosts": [
+      "plumgoodness.com",
+      "www.plumgoodness.com"
+    ],
+    "image_hosts": [
+      "plumgoodness.com",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "public-feed"
+  },
+  {
+    "id": "renee",
+    "name": "RENÉE",
+    "website": "https://www.reneecosmetics.in",
+    "feed_base": "https://www.reneecosmetics.in",
+    "allowed_hosts": [
+      "www.reneecosmetics.in",
+      "reneecosmetics.in"
+    ],
+    "image_hosts": [
+      "www.reneecosmetics.in",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "public-feed"
+  },
+  {
+    "id": "mars",
+    "name": "MARS",
+    "website": "https://marscosmetics.in",
+    "feed_base": "https://marscosmetics.in",
+    "allowed_hosts": [
+      "marscosmetics.in",
+      "www.marscosmetics.in"
+    ],
+    "image_hosts": [
+      "marscosmetics.in",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "public-feed"
+  },
+  {
+    "id": "faces-canada",
+    "name": "FACES CANADA",
+    "website": "https://www.facescanada.com",
+    "feed_base": "https://www.facescanada.com",
+    "allowed_hosts": [
+      "www.facescanada.com",
+      "facescanada.com"
+    ],
+    "image_hosts": [
+      "www.facescanada.com",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "public-feed"
+  },
+  {
+    "id": "kiro",
+    "name": "Kiro",
+    "website": "https://kirobeauty.com",
+    "feed_base": "https://kirobeauty.com",
+    "allowed_hosts": [
+      "kirobeauty.com",
+      "www.kirobeauty.com"
+    ],
+    "image_hosts": [
+      "kirobeauty.com",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "public-feed"
+  },
+  {
+    "id": "just-herbs",
+    "name": "Just Herbs",
+    "website": "https://www.justherbs.in",
+    "feed_base": "https://www.justherbs.in",
+    "allowed_hosts": [
+      "www.justherbs.in",
+      "justherbs.in"
+    ],
+    "image_hosts": [
+      "www.justherbs.in",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "public-feed"
+  },
+  {
+    "id": "maybelline",
+    "name": "Maybelline New York",
+    "website": "https://www.maybelline.co.in",
+    "feed_base": null,
+    "allowed_hosts": [
+      "www.maybelline.co.in",
+      "maybelline.co.in"
+    ],
+    "image_hosts": [
+      "www.maybelline.co.in",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "selected-ranges"
+  },
+  {
+    "id": "loreal-paris",
+    "name": "L’Oréal Paris",
+    "website": "https://www.lorealparis.co.in",
+    "feed_base": null,
+    "allowed_hosts": [
+      "www.lorealparis.co.in",
+      "lorealparis.co.in"
+    ],
+    "image_hosts": [
+      "www.lorealparis.co.in",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "selected-ranges"
+  },
+  {
+    "id": "colorbar",
+    "name": "Colorbar",
+    "website": "https://www.colorbarcosmetics.com",
+    "feed_base": null,
+    "allowed_hosts": [
+      "www.colorbarcosmetics.com",
+      "colorbarcosmetics.com"
+    ],
+    "image_hosts": [
+      "www.colorbarcosmetics.com",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "supplier-feed-needed"
+  },
+  {
+    "id": "nykaa",
+    "name": "Nykaa Cosmetics",
+    "website": "https://www.nykaa.com",
+    "feed_base": null,
+    "allowed_hosts": [
+      "www.nykaa.com",
+      "nykaa.com"
+    ],
+    "image_hosts": [
+      "www.nykaa.com",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "supplier-feed-needed"
+  },
+  {
+    "id": "kay-beauty",
+    "name": "Kay Beauty",
+    "website": "https://www.nykaa.com",
+    "feed_base": null,
+    "allowed_hosts": [
+      "www.nykaa.com",
+      "nykaa.com"
+    ],
+    "image_hosts": [
+      "www.nykaa.com",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "supplier-feed-needed"
+  },
+  {
+    "id": "mac",
+    "name": "M·A·C",
+    "website": "https://www.maccosmetics.in",
+    "feed_base": null,
+    "allowed_hosts": [
+      "www.maccosmetics.in",
+      "maccosmetics.in"
+    ],
+    "image_hosts": [
+      "www.maccosmetics.in",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "supplier-feed-needed"
+  },
+  {
+    "id": "huda-beauty",
+    "name": "Huda Beauty",
+    "website": "https://hudabeauty.com",
+    "feed_base": null,
+    "allowed_hosts": [
+      "hudabeauty.com",
+      "www.hudabeauty.com"
+    ],
+    "image_hosts": [
+      "hudabeauty.com",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "supplier-feed-needed"
+  },
+  {
+    "id": "elf",
+    "name": "e.l.f. Cosmetics",
+    "website": "https://www.elfcosmetics.com",
+    "feed_base": null,
+    "allowed_hosts": [
+      "www.elfcosmetics.com",
+      "elfcosmetics.com"
+    ],
+    "image_hosts": [
+      "www.elfcosmetics.com",
+      "cdn.shopify.com",
+      "images-static.nykaa.com"
+    ],
+    "coverage": "supplier-feed-needed"
+  }
+]

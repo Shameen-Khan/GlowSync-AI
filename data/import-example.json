@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "products": [
+    {
+      "id": "lakme:8612004429959",
+      "brand": "lakme",
+      "name": "Lakmē Forever Matte Longwear Foundation",
+      "category": "foundation",
+      "url": "https://www.lakmeindia.com/products/lakme-forever-matte-longwear-foundation",
+      "image": "https://cdn.shopify.com/s/files/1/0014/3514/0183/files/67024_FOP-8909106030947.jpg?v=1781076009",
+      "source_url": "https://www.lakmeindia.com/products.json",
+      "observed_at": 1789715230,
+      "variants": [
+        {
+          "id": "44827826094215",
+          "name": "Natural Marble",
+          "price_inr": 254.0,
+          "mrp_inr": null,
+          "available": false,
+          "url": "https://www.lakmeindia.com/products/lakme-forever-matte-longwear-foundation?variant=44827826094215"
+        }
+      ]
+    }
+  ]
+}

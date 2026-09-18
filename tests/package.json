@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "description": "Optional DOM integration tests only; Node is not needed to run GlowSync.",
+  "devDependencies": {
+    "jsdom": "26.1.0"
+  }
+}

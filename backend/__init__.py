@@ -1,0 +1,1 @@
+"""GlowSync local application."""
